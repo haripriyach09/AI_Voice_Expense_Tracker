@@ -1,0 +1,9 @@
+streamlit
+pandas
+plotly
+python-dotenv
+google-generativeai
+faster-whisper
+openpyxl
+ctranslate2
+av
